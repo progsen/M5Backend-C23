@@ -39,22 +39,29 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation.h
 1) kies `custom`
 
 ![1.PNG](1.PNG)
+
 2) gebruik de `groene pijl` om `mysql server` & `mysql workbench` in de `install kolom` te zetten
+
 ![2.PNG](2.PNG)
 
 3) check of bij de installation stap het er zo uitziet:
+
 ![3.PNG](3.PNG)
 
 4) ja? click op `execute`
+
 ![4.PNG](4.PNG)
 
 ## configuration
 
 5) vink `open windows firewall` uit, wij willen niet van buiten benaderbaar zijn
+
 ![5.PNG](5.PNG)
 
 6) strong is prima, volgende
+
 ![6.PNG](6.PNG)
+
 7) maak een strong password aan, sla deze in je password manager op!
 
 * gebruik je root alleen voor administratie taken zoals:
@@ -67,12 +74,15 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation.h
 ![7.PNG](7.PNG)
 
 8) laat alles zo staan
+
 ![8.PNG](8.PNG)
 
 9) laat alles zo staan
+
 ![9.PNG](9.PNG)
 
 10) klaar! druk op `execute`
+
 ![10.PNG](10.PNG)
 
 
