@@ -27,9 +27,16 @@ we hebben php op lokaal nodig, in de commandprompt
 ## toevoegen aan je pad
 
 je moet nu de uitgepakte php directory aan je pad toevoegen
-- zoek uit hoe je dat doet
 
-Hint windows: `Environmental variables`
+- kopieer het volledige path naar je php directory
+- druk op je windows knop, en type `Environment variables`
+* je ziet dan (als het goed is) `edit the system Environment variables`
+* Zie je het niet? Ga naar System in je settings, vindt `advanced settings`
+- click op `Environment variables`
+- click `path` open
+- voeg een nieuwe regel toe
+- plak daar het path naar de php directory toe, druk op enter
+- click ok
 
 ## configuratie file maken
 
