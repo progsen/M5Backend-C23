@@ -3,16 +3,20 @@
 we hebben php op lokaal nodig, in de commandprompt
 
 ## Download voor Windows
-- op https://www.php.net/downloads download `php 8.2.7` voor windows
+- ga naar https://www.php.net/downloads
+- click op windows
+- download `php 8.xx` (de laatste) de `VS16 x64 Thread Safe` versie, de `zip`
+
+![img/phpdownload.PNG](img/phpdownload.PNG)
 
 ## Download voor linux
-- op https://www.php.net/downloads download `php 8.2.7`
+- op https://www.php.net/downloads download `php 8.xx` (de laatste)
 
 ## Download voor MAC 
 - waarschijnlijk heb je al php, test dat (zie kopje `testen`)
 - zo niet moet je even zoeken op het internet
 - zoek je php ini 
-- doe de configuratie stappen van de extensions wel
+- doe de configuratie stappen van de extensions wel (`zie "## configuratie file maken" hieronder`)
 
 
 # WINDOWS instructies
@@ -32,8 +36,18 @@ je moet nu de uitgepakte php directory aan je pad toevoegen
 - druk op je windows knop, en type `Environment variables`
 * je ziet dan (als het goed is) `edit the system Environment variables`
 * Zie je het niet? Ga naar System in je settings, vindt `advanced settings`
+
+![img/env.PNG](img/env.PNG)
+
 - click op `Environment variables`
+
+
+![img/envbutton.PNG](img/envbutton.PNG)
+
 - click `path` open
+
+![img/path.PNG](img/path.PNG)
+
 - voeg een nieuwe regel toe
 - plak daar het path naar de php directory toe, druk op enter
 - click ok
@@ -56,9 +70,7 @@ je moet nu de uitgepakte php directory aan je pad toevoegen
 ### extensions configureren
 
 - zoek de regel `;extension=mysqli` haal de `;` weg (dit zet mysqli aan zodat je die kan gebruiken)
-- zoek de regel `extension_dir = ` controlleer of daar het goede pad staat, dit moet naar de directory van php op `jouw` pc staan
-    - dus als jij php in `c:\mijnmap\coolstuff\php` hebt staan wordt het
-    - `c:\mijnmap\coolstuff\php\ext`
+- zoek de regel `;extension_dir=ext` haal de `;` weg 
 
 ## testen
 
