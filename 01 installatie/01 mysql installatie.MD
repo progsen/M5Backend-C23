@@ -50,8 +50,6 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation.h
 
 4) ja? click op `execute`
 
-![img/4.PNG](img/4.PNG)
-
 ## configuration
 
 5) vink `open windows firewall` uit, wij willen niet van buiten benaderbaar zijn
