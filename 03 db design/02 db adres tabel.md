@@ -10,6 +10,7 @@ we gaan een tabel maken waar een adres in opgeslagen kan worden
 
 
 ### start
+
 - maak met `mysql workbench` een nieuw diagram
 - noem het diagram `persoonsite`
 - open het diagram
