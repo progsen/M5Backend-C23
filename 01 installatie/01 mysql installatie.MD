@@ -40,7 +40,9 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation.h
 
 ![img/1.PNG](img/1.PNG)
 
-2) gebruik de `groene pijl` om `mysql server` & `mysql workbench` in de `install kolom` te zetten
+2)
+- click op de [+]jes voor `mysql server` & `mysql workbench` totdat je geen plusjes meer hebt
+- gebruik de `groene pijl` om `mysql server` & `mysql workbench` in de `install kolom` te zetten
 
 ![img/2.PNG](img/2.PNG)
 
