@@ -10,7 +10,7 @@ we gaan een tabel maken waar een persoon in opgeslagen kan worden
 
 
 ### start
-- maak met `mysql workbench` een nieuw diagram
+- ga verder in het vorige diagram uit 02 db adres tabel
 - noem het diagram `persoonsite`
 - open het diagram
 - maak een nieuwe tabel `persoon`
