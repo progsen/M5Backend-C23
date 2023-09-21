@@ -21,8 +21,7 @@ we gaan een tabel maken waar een persoon in opgeslagen kan worden
 
 - de eerste colomn noemen we even `persoonID`, type `int`
 - vink even `Primary key`, `not null`, `unsigned` en `unique` aan
-- maak nu colommen aan voor elke `persoon` variable in `variabel_opdracht.php`
-- een persoon heeft een telefoonnummer, voornaam, achternaam, geboorte datum, geslacht, geboorte stad, nationaliteit
+- maak nu colommen voor: een telefoonnummer, voornaam, achternaam, geboorte datum, geslacht, geboorte stad, nationaliteit
 - denk na over het `type` zodat je de juiste kiest
 - maak ze voor nu allemaal `not null`
 
