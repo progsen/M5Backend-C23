@@ -16,15 +16,15 @@ die gaan we aan maken in ons diagram
 gebruik het knopje 1:N om een relatie te leggen
 
 - click op het knopje
-- click op de adres tabel
-- click op de persoon tabel
+- click op de adres table
+- click op de persoon table
 
 ## extra colomn?
 
 - bekijk adres, zie je de extra colom?
 
 Die was nodig om een koppelwaarde in op te slaan
-Verder kan je bij de tab `foreign keys` van de tabel editor de relatie ook zien
+Verder kan je bij de tab `foreign keys` van de table editor de relatie ook zien
 
 
 ### inleveren

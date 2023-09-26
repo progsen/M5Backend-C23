@@ -11,7 +11,7 @@ Dit gaan we namaken in een database
 
 - maak een nieuw model: `klmvluchten`
 
-- Maak daarin 2 tabellen:
+- Maak daarin 2 tables:
 * Vlucht (vluchtnummer, vliegtuig type, vertrektijd, aankomst tijd, vertrek vluchthaven, aankomst vlucht haven)
 * Personeel (naam, rol)
 
@@ -22,8 +22,8 @@ Dit gaan we namaken in een database
 Voer de stappen uit:
 
 - click op het n:m knopje
-- click op 1 van de tabellen
-- click op de andere tabel
+- click op 1 van de tables
+- click op de andere table
 
 Wat zie je gebeuren?
 
@@ -36,7 +36,7 @@ Wat zie je gebeuren?
 ## extra
 
 Welke waardes van vluchten & personeel zullen herhalende data zijn?
-- normaliseer deze naar andere tabellen
+- normaliseer deze naar andere tables
 * zo verbruik je minder data
 
 ## git

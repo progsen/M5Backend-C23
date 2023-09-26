@@ -7,9 +7,9 @@ we gaan nu kijken of de rechten kloppen
 - start mysql workbench
 - log in op je localhost met je `root`
 
-## tabel maken
+## table maken
 
-- maak in `usertest` een tabel `test`
+- maak in `usertest` een table `test`
 - geef deze 1 colomn
 
 ## inloggen met de gebruiker
@@ -22,7 +22,7 @@ we gaan nu kijken of de rechten kloppen
 ## select
 
 als het goed is mogen we selecteren
-- select alles van de tabel `test`
+- select alles van de table `test`
 
 krijg je geen fouten? mooi! dan werkt het
 - maak een screenshot van het resultaat (`deze moet je inleveren/laten zien`)
@@ -38,7 +38,7 @@ krijg je geen fouten? mooi! dan werkt het
 ## select
 
 als het goed is mogen we nu niet meer selecteren
-- select alles van de tabel `test`
+- select alles van de table `test`
 
 krijg je een fouten? mooi! dan werkt het
 - maak een screenshot van het resultaat (`deze moet je inleveren/laten zien`)

@@ -63,7 +63,7 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/linux-installation.h
 7) maak een strong password aan, sla deze in je password manager op!
 
 * gebruik je root alleen voor administratie taken zoals:
-- schema/tabellen/stored procedures maken
+- schema/tables/stored procedures maken
 - gebruikers maken
 - rechten beheren van de DATABASE
 * !! Dus niet in je applicatie!

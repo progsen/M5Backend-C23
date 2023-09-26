@@ -1,20 +1,20 @@
 ## Adres
 
 
-We gaan nu oefenen met tabellen maken
+We gaan nu oefenen met tables maken
 
 
 ## Persoon modeleren
 
-we gaan een tabel maken waar een persoon in opgeslagen kan worden
+we gaan een table maken waar een persoon in opgeslagen kan worden
 
 
 ### start
 - maak met `mysql workbench` een nieuw diagram
 - noem het diagram `persoonsite`
 - open het diagram
-- maak een nieuwe tabel `persoon`
-- open de tabel zodat je colommen kan toevoegen
+- maak een nieuwe table `persoon`
+- open de table zodat je colommen kan toevoegen
 
 
 ### colommen

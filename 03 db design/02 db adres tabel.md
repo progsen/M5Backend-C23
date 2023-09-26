@@ -1,12 +1,12 @@
 ## Adres
 
 
-We gaan nu oefenen met tabellen maken
+We gaan nu oefenen met tables maken
 
 
 ## Adres modeleren
 
-we gaan een tabel maken waar een adres in opgeslagen kan worden
+we gaan een table maken waar een adres in opgeslagen kan worden
 
 
 ### start
@@ -14,8 +14,8 @@ we gaan een tabel maken waar een adres in opgeslagen kan worden
 - maak met `mysql workbench` een nieuw diagram
 - noem het diagram `persoonsite`
 - open het diagram
-- maak een nieuwe tabel `adres`
-- open de tabel zodat je colommen kan toevoegen
+- maak een nieuwe table `adres`
+- open de table zodat je colommen kan toevoegen
 
 ### wat zit er in?
 

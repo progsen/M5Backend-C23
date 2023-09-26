@@ -1,7 +1,7 @@
 ## Klaar voor de start?
 
 
-We gaan nu oefenen met tabellen maken
+We gaan nu oefenen met tables maken
 maar we moeten ook inleveren, daar moet een plekje voor komen
 
 
