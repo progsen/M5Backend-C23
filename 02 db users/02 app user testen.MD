@@ -32,7 +32,7 @@ krijg je geen fouten? mooi! dan werkt het
 
 - maak een nieuwe connection maar dan met `root`
 * elke tab die opend heeft zijn eigen connection en dus eigen rechten!
-- open de gebruiken `usertestapp`
+- open de gebruiker `usertestapp`
 - verander de rechten naar alleen `insert`
 
 ## select

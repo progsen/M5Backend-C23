@@ -16,8 +16,9 @@ die gaan we aan maken in ons diagram
 gebruik het knopje 1:N om een relatie te leggen
 
 - click op het knopje
-- click op de adres table
+
 - click op de persoon table
+- click op de adres table
 
 ## extra colomn?
 
