@@ -20,7 +20,8 @@ Dan moet je ook je sql bewaren!
 onder `database` zit de `reverse engineer`
 - start de reverse engineer wizard
 - probeer deze zelf uit
-- zorg ervoor dat je een sql script hebt aan het eind
+- zorg ervoor dat je een diagram hebt aan het eind
+- sla het diagram op en maak een screenshot
 
 ## data
 
@@ -40,4 +41,4 @@ we gaan nu de data exporteren naar sql.
 
 ## git
 
-commit je script naar je git repository voor de vak!
+commit je script, diagram en screenshot naar je git repository voor de vak!
