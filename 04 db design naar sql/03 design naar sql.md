@@ -47,7 +47,6 @@ als je nu commit, gaat het SQL script uitgevoerd worden.
 
 ## opnieuw uitrollen
 
-- verwijder `drop` het schema zodat deze weg is
 - probeer nu de sql file die je eerder bewaard te gebruiken om de database opnieuw te maken
 
 
