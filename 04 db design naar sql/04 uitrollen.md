@@ -16,6 +16,7 @@ Dit is een structuur die je vaak ziet, en de database moet op allen komen te sta
 ## ma-cloud
 
 * INFO: wat we nu gaan doen wordt vaak door een build straat of een database adminstrator gedaan, maar je moet het kunnen! 
+* https://panel.ma-cloud.nl/
 
 - maak een nieuwe database/schema aan in `panel.ma-cloud.nl`, noem deze `uitroltest`
 - ga naar het nieuwe schema in phpmyadmin
