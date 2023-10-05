@@ -1,0 +1,86 @@
+## .env file
+
+De huidendaagse standaard is om een `.env` file te maken
+In deze file staan variabelen, het is een soort config file.
+De variablen staan in wat we noemen `key value pairs`
+Later lees je die met Php in.
+
+voorbeeld
+```
+
+WP_DEBUG=true
+WP_DEBUG_DISPLAY=true
+SCRIPT_DEBUG=true
+
+
+```
+
+## template aanmaken
+
+- Maak nu een `.env_template` file aan
+In deze file staan alle variabelen die jou applicatie nodig heeft `ZONDER` de waardes
+
+bijvoorbeeld:
+
+```
+    WP_DEBUG=...
+    WP_DEBUG_DISPLAY=...
+    SCRIPT_DEBUG=...
+```
+
+- zet in deze file de volgende velden:
+
+```
+    DB_NAME=...
+    DB_USER=...
+    DB_PASSWORD=...
+    DB_HOST=...
+```
+
+* deze file mag in `git`
+
+## de echte file
+
+- kopieer nu de  `.env_template` file
+- hernoem deze naar `.env`
+- daar mogen wel waarden in
+
+* deze mag `NIET` in git (we gebruik later de `.gitignore file` daarvoor)
+
+## inlezen
+
+
+- maak een php file `dbdata.php`, daar gaan we de `.env` file inlezen
+- die `include_once` je waar je de database moet gebruiken
+- gebruik de code hieronder in je `dbdata.php`:
+
+```
+    $envSettings = [];
+    if (file_exists(dirname(__FILE__).'/.env')) {
+        $envSettings = parse_ini_file(dirname(__FILE__).'/.env');
+    }
+```
+
+- lees de code goed, wat doen alle statements?
+- schrijf dat in commentaar achter de regels
+
+## variabelen
+
+- maak nu in de `dbdata.php` file variabelen aan voor:
+* DB_NAME
+* DB_USER
+* DB_PASSWORD
+* DB_HOST
+
+- haal uit `$envSettings` de juiste waarde en zet (`assign`) die in je nieuwe variabelen.
+
+
+## TEST
+
+- maak een `test.php` waar je een database connectie maakt en `dbdata.php` include
+* zie `https://www.php.net/manual/en/book.mysqli.php, de quick start guide`
+- kijk of je een connectie kan maken/iets kan selecteren
+
+## GIT?
+
+commit? `NOG NIET!`
