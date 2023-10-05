@@ -29,7 +29,7 @@ we gaan een table maken waar een adres in opgeslagen kan worden
 - de eerste colomn noemen we even `adresID`, type `int`
 - vink even `Primary key`, `not null`, `unsigned` en `unique` aan
 * denk even na waarom we dit doen, schrijf dat op in `02 notities.txt`
-- maak nu colommen aan voor elke `adres` variable in  `wat zit er in?`
+- maak nu colommen aan voor alle variable die je hebt bedacht in stap  `wat zit er in?`
 - denk na over het `type` zodat je de juiste kiest
 - maak ze voor nu allemaal `not null`
 
