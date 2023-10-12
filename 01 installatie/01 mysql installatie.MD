@@ -12,6 +12,9 @@ Software voor software, en alles configureren.
 ### MAC/linux mysql
 - https://dev.mysql.com/downloads/mysql/ `community server`
 - https://dev.mysql.com/downloads/workbench/ `workbench`
+- https://sequel-ace.com/ `database tool`
+    - als ik het in de oefeningen over `workbench` heb gebruik dan deze voor die oefening
+
 
 ### windows mysql
 - download https://dev.mysql.com/downloads/installer/ `de installer`

@@ -12,7 +12,8 @@ We gaan nu oefenen met tables maken
 Maak net als in `02 db users` een user
 - noem deze `persoonsitereadonly`
 - geef een goed wachtwoord
-- zet geef voor nu alleen `select` rechten
+- kies nu een van je `database schemas` die je gemaakt had met de opdrachten
+- zet geef voor nu alleen `select` rechten, op het schema van jouw keuze
 
 
 ### testen

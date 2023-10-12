@@ -7,7 +7,9 @@ Dan moet je ook je sql bewaren!
 
 ## schema maken
 
-* Doe dit `NIET` in de designer maar direct op de database
+* Doe dit `NIET` in de designer maar direct op de database via de `schema` tab
+
+<br>![](img/welniet.png)
 
 - kies een applicatie, website of game uit
 - maak een nieuw schema met de naam `dbfirst`
