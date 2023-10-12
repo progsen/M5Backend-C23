@@ -9,7 +9,7 @@ Maar eerst kijken waarom queries slecht zijn
 
 ## start
 
-We hebben een database en een table nodig:
+We hebben een database en een table nodig (maak deze direct aan op de database `geen diagram`):
 - maak een schema `prepstatements`
 - maak in `prepstatements` maken een table `leerlingen`.
 - geef deze table de volgende colommen:
@@ -20,7 +20,8 @@ We hebben een database en een table nodig:
 ## data
 - stop 3 `verzonnen leerlingen` in `leerlingen`, gebruik game, film of anime characters
 - voeg ook `mario` en `sonic` toe
-- maak er een schema script van en sla dat op
+- maak een script van je `schema` script en sla dat op
+    - TIP: gebruik hier `data export wizard` voor (`adminstration` tab)
 
 ## Php
 
