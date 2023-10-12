@@ -13,7 +13,7 @@ Maak net als in `02 db users` een user
 - noem deze `persoonsitereadonly`
 - geef een goed wachtwoord
 - kies nu een van je `database schemas` die je gemaakt had met de opdrachten
-- zet geef voor nu alleen `select` rechten, op het schema van jouw keuze
+- geef de user alleen `select` rechten, op het schema van jouw keuze
 
 
 ### testen
