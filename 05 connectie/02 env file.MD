@@ -14,19 +14,20 @@ SCRIPT_DEBUG=true
 
 
 ```
+Hier is:
+- `WP_DEBUG` een `key`
+- `true` is de waarde voor die `key`
+- dit lijkt een beetje op variabelen toch?
+
+## Opstarten
+
+- maak een nieuwe directory aan voor deze oefening `05 connectie`
+- open deze directory in `visual studio code`
 
 ## template aanmaken
 
-- Maak nu een `.env_template` file aan
+- Maak nu een `.env_template` file aan in de directory `05 connectie`
 In deze file staan alle variabelen die jou applicatie nodig heeft `ZONDER` de waardes
-
-bijvoorbeeld:
-
-```
-    WP_DEBUG=...
-    WP_DEBUG_DISPLAY=...
-    SCRIPT_DEBUG=...
-```
 
 - zet in deze file de volgende velden:
 
