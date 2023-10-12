@@ -52,7 +52,7 @@ In deze file staan alle variabelen die jou applicatie nodig heeft `ZONDER` de wa
 
 
 - maak een php file `dbdata.php`, daar gaan we de `.env` file inlezen
-- die `include_once` je waar je de database moet gebruiken
+    - deze `dbdata.php` kan je later met `include_once` gebruiken waar je de database wil gebruiken
 - gebruik de code hieronder in je `dbdata.php`:
 
 ```
