@@ -21,3 +21,4 @@ Maak net als in `02 db users` een user
 maak een nieuwe connectie met mysql workbench
 - gebruik de nieuwe user
 
+Dit doe we om de user even te testen

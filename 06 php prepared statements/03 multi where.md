@@ -8,7 +8,7 @@
 We gaan nu de where uitbreiden:
 - voeg een leeftijd toe (leeftijd = ...)
 - zorg dat je deze ook in de html query mee moet geven 
-* `http://localhost/multiwhere.php?search=mario&leeftijd=1`
+    * `http://localhost/multiwhere.php?search=mario&leeftijd=1`
 
 ## prepared statement uitbreiden
 

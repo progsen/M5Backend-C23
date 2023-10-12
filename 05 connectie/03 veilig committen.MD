@@ -10,7 +10,7 @@ We hebben nu onze `.env_template` en `.env` files.
 
 we gaan in het werkveld en de lessen veel met databases werken
 
-WAT we NOOIT willen is je login of wachtwoorden in git zetten
+WAT we `NOOIT` willen is je login of wachtwoorden in git zetten
 Je gevoelige data mag nooit in welke source control ooit.
 
 Dus onze `.env` file met echte login data mag dus `NOOIT` in git komen.

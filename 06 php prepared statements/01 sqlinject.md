@@ -13,9 +13,9 @@ We hebben een database en een table nodig:
 - maak een schema `prepstatements`
 - maak in `prepstatements` maken een table `leerlingen`.
 - geef deze table de volgende colommen:
-* naam
-* leeftijd
-* klas
+    * naam
+    * leeftijd
+    * klas
 
 ## data
 - stop 3 `verzonnen leerlingen` in `leerlingen`, gebruik game, film of anime characters
@@ -26,12 +26,12 @@ We hebben een database en een table nodig:
 
 - maak een php file `gehacked.php`
 - maak een database connectie in je php
-* !!!ZORG dat je `password/user/server` er `NIET` in staan!!!, zie `03 veilig committen.MD`
+    * !!!ZORG dat je `password/user/server` er `NIET` in staan!!!, zie `03 veilig committen.MD`
 
 - maak een select statement voor de table `leeringen`
 - voeg een `where` toe: `where naam = ...`
 - de `...` wordt een variabel genaamd `search`
-* `where naam = '$search'`
+    * `where naam = '$search'`
 - laat deze een leerlingen die gevonden zijn weergeven
 
 ## hack thyself!

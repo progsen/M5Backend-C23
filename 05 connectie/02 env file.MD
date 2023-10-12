@@ -32,7 +32,7 @@ In deze file staan alle variabelen die jou applicatie nodig heeft `ZONDER` de wa
 - zet in deze file de volgende velden:
 
 ```
-    DB_NAME=...
+    DB_SCHEMA_NAME=...
     DB_USER=...
     DB_PASSWORD=...
     DB_HOST=...
@@ -68,10 +68,10 @@ In deze file staan alle variabelen die jou applicatie nodig heeft `ZONDER` de wa
 ## variabelen
 
 - maak nu in de `dbdata.php` file variabelen aan voor:
-* DB_NAME
-* DB_USER
-* DB_PASSWORD
-* DB_HOST
+    * DB_SCHEMA_NAME
+    * DB_USER
+    * DB_PASSWORD
+    * DB_HOST
 
 - haal uit `$envSettings` de juiste waarde en zet (`assign`) die in je nieuwe variabelen.
 
@@ -79,8 +79,11 @@ In deze file staan alle variabelen die jou applicatie nodig heeft `ZONDER` de wa
 ## TEST
 
 - maak een `test.php` waar je een database connectie maakt en `dbdata.php` include
-* zie `https://www.php.net/manual/en/book.mysqli.php, de quick start guide`
-- kijk of je een connectie kan maken/iets kan selecteren
+    - zie ook de presentatie
+    - zie `https://www.php.net/manual/en/book.mysqli.php, de quick start guide`
+- kijk of je een connectie kan maken
+- kijk nu of je iets kan selecteren uit 1 van de tabellen
+    - controlleer ook even of je er data in had staan
 
 ## GIT?
 
