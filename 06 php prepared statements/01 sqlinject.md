@@ -50,7 +50,7 @@ we gaan nu input vanuit een query string ontvangen. dat doen we met `$_GET[]'
 
 ## test
 
-als je nu naar `http://localhost/gehacked.php?search=mario` (url kan mogelijk anders zijn in jou geval) gaat gaat de app zoeken in leerlingen naar mario
+als je nu naar `http://localhost:3000/gehacked.php?search=mario` (url kan mogelijk anders zijn in jou geval) gaat gaat de app zoeken in leerlingen naar mario
 
 - verander search=mario naar iets wat jij in je table hebt staan
 
