@@ -39,7 +39,7 @@ We hebben een database en een table nodig (maak deze direct aan op de database `
 we gaan nu input vanuit een query string ontvangen. dat doen we met `$_GET[]'
 
 - ga naar de `gehacked.php` in je browser en zet achter de url de querystring `?search=sonic`
-  > om een php file te draaien als `mini locale webserver`:
+  > om een php file te draaien als `mini locale webserver` (ja mag ook liveserver gebruiken):
   > - ga naar je commandline
   > - type `php -S localhost:3000` *(in de directory van je .php file, bv index.php)*
   > - in je browser kan je nu gaan `http://localhost:3000`
