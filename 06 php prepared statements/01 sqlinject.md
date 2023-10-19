@@ -39,6 +39,10 @@ We hebben een database en een table nodig (maak deze direct aan op de database `
 we gaan nu input vanuit een query string ontvangen. dat doen we met `$_GET[]'
 
 - ga naar de `gehacked.php` in je browser en zet achter de url de querystring `?search=sonic`
+  > om een php file te draaien als html:
+  > - ga naar je commandline
+  > - type `php -S localhost:3000`
+  > - in je browser kan je nu gaan `http://localhost:3000`
 - haal uit `$_GET` de `value` die hoort bij `search`
 - die waarde geef je aan `$search`
 
