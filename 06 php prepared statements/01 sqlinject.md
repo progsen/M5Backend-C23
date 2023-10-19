@@ -45,7 +45,7 @@ we gaan nu input vanuit een query string ontvangen. dat doen we met `$_GET[]'
   > - in je browser kan je nu gaan `http://localhost:3000`
   > - probeer nu `http://localhost:3000/gehacked.php`
 - haal uit `$_GET` de `value` die hoort bij `search`
-   - ```$search = $_GET["search"]   ```
+   - ```$search = $_GET["search"];   ```
 - die waarde geef je aan `$search`
 
 ## test
