@@ -18,7 +18,7 @@ Maak net als in `02 db users` een user
 
 ### testen
 
-maak een nieuwe connectie met mysql workbench
-- gebruik de nieuwe user
+maak een nieuwe connectie met mysql workbench (`huisje-> new connection`)
+- gebruik de nieuwe user `persoonsitereadonly`
 
 Dit doe we om de user even te testen
