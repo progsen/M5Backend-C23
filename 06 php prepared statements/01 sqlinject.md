@@ -33,7 +33,6 @@ We hebben een database en een table nodig (maak deze direct aan op de database `
 - voeg een `where` toe: `where naam = ...`
 - de `...` wordt een variabel genaamd `search`
     * `where naam = '$search'`
-- laat deze een leerlingen die gevonden zijn weergeven
 
 ## hack thyself!
 
