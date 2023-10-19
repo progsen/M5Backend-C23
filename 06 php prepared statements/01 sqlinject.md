@@ -33,19 +33,24 @@ We hebben een database en een table nodig (maak deze direct aan op de database `
 - voeg een `where` toe: `where naam = ...`
 - de `...` wordt een variabel genaamd `search`
     * `where naam = '$search'`
-- laat deze een leerlingen die gevonden zijn weergeven
 
 ## hack thyself!
 
 we gaan nu input vanuit een query string ontvangen. dat doen we met `$_GET[]'
 
 - ga naar de `gehacked.php` in je browser en zet achter de url de querystring `?search=sonic`
+  > om een php file te draaien als `mini locale webserver` (ja mag ook liveserver gebruiken):
+  > - ga naar je commandline
+  > - type `php -S localhost:3000` *(in de directory van je .php file, bv index.php)*
+  > - in je browser kan je nu gaan `http://localhost:3000`
+  > - probeer nu `http://localhost:3000/gehacked.php`
 - haal uit `$_GET` de `value` die hoort bij `search`
+   - ```$search = $_GET["search"];   ```
 - die waarde geef je aan `$search`
 
 ## test
 
-als je nu naar `http://localhost/gehacked.php?search=mario` (url kan mogelijk anders zijn in jou geval) gaat gaat de app zoeken in leerlingen naar mario
+als je nu naar `http://localhost:3000/gehacked.php?search=mario` (url kan mogelijk anders zijn in jou geval) gaat gaat de app zoeken in leerlingen naar mario
 
 - verander search=mario naar iets wat jij in je table hebt staan
 
